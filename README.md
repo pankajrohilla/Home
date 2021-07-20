@@ -2,7 +2,11 @@
 
 I will be soon be [editing](https://github.com/pankajrohilla/rohillapankaj/edit/master/README.md) this page to add new information.
 
-Cheers to [Jekyll](https://jekyllrb.com/)!!
+Chechout my [google scholar](https://scholar.google.com/citations?user=rTeuJmkAAAAJ&hl=en/)!!
+
+
+
+
 
 ### Edit this!
 
