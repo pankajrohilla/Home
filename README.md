@@ -24,7 +24,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](https://img.favpng.com/15/23/14/google-scholar-academic-journal-google-logo-education-png-favpng-0uceM1mAtbc5DfsdtKmriNSDW.jpg "dss")
 
-<img src="https://img.favpng.com/15/23/14/google-scholar-academic-journal-google-logo-education-png-favpng-0uceM1mAtbc5DfsdtKmriNSDW.jpg" alt="Google Scholar" style="height: 100px; width:100px;"/>
+
 ```
 
 
+<img src="https://img.favpng.com/15/23/14/google-scholar-academic-journal-google-logo-education-png-favpng-0uceM1mAtbc5DfsdtKmriNSDW.jpg" alt="Google Scholar" style="height: 100px; width:100px;"/>
