@@ -512,6 +512,29 @@ h1, h2, h3, h4, h5, h6, figure {
   z-index: 1;
   margin-bottom: 20px;
 }
+
+.portfolio-grid ol {
+  list-style: none;
+  counter-reset: steps;
+}
+.portfolio-grid ol li {
+  counter-increment: steps;
+}
+.portfolio-grid ol li::before {
+  content: counter(steps);
+  margin-right: 0.5rem;
+  background: #ff6f00;
+  color: white;
+  width: 1.2em;
+  height: 1.2em;
+  border-radius: 50%;
+  display: inline-grid;
+  place-items: center;
+  line-height: 1.2em;
+}
+.portfolio-grid ol ol li::before {
+  background: darkorchid;
+}
 .portfolio-grid:after {
   position: absolute;
   top: 0;
@@ -1214,28 +1237,6 @@ input[type="text"] {
   }
 }
 
-ol {
-  list-style: none;
-  counter-reset: steps;
-  width = 0.6em;
-}
-ol li {
-  counter-increment: steps;
-}
-ol li::before {
-  content: counter(steps);
-  margin-right: 0.5rem;
-  background: #ff6f00;
-  color: white;
-  width: 1.2em;
-  height: 1.2em;
-  border-radius: 50%;
-  display: inline-grid;
-  place-items: center;
-  line-height: 1.2em;
-}
-ol ol li::before {
-  background: darkorchid;
-}
+
 
 /*# sourceMappingURL=style.css.map */
