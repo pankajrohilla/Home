@@ -28,4 +28,4 @@ Syntax highlighted code block
 ```
 
 
-<img src="https://img.favpng.com/15/23/14/google-scholar-academic-journal-google-logo-education-png-favpng-0uceM1mAtbc5DfsdtKmriNSDW.jpg" alt="Google Scholar" style="height: 4px; width:4px;"/>
+<img src="https://img.favpng.com/15/23/14/google-scholar-academic-journal-google-logo-education-png-favpng-0uceM1mAtbc5DfsdtKmriNSDW.jpg" alt="Google Scholar" style="height:4px; width:4px;"/>
