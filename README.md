@@ -1,16 +1,13 @@
-## Pankaj Rohilla
+ Under [Construction!!!](https://github.com/pankajrohilla/rohillapankaj/edit/master/README.md) this page to add new information.
 
-I will be soon be [editing](https://github.com/pankajrohilla/rohillapankaj/edit/master/README.md) this page to add new information.
-
-Chechout my [google scholar](https://scholar.google.com/citations?user=rTeuJmkAAAAJ&hl=en/)!!
+Checkout my [google scholar](https://scholar.google.com/citations?user=rTeuJmkAAAAJ&hl=en/)!!
 
 
 
 
 
-### Edit this!
+### Links
 
-Edit edit!!!!  
 
 ```markdown
 Syntax highlighted code block
@@ -22,10 +19,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image]("https://img.favpng.com/15/23/14/google-scholar-academic-journal-google-logo-education-png-favpng-0uceM1mAtbc5DfsdtKmriNSDW.jpg" "dss")
+[Link](url) and ![Image]("https://img.favpng.com/15/23/14/google-scholar-academic-journal-google-logo-education-png-favpng-0uceM1mAtbc5DfsdtKmriNSDW.jpg")
 
 
 ```
 
-
-<img src="https://img.favpng.com/15/23/14/google-scholar-academic-journal-google-logo-education-png-favpng-0uceM1mAtbc5DfsdtKmriNSDW.jpg" alt="Google Scholar" style="height:40px; width:50px;"/>
+ 
