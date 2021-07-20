@@ -10,14 +10,4 @@ Checkout my [google scholar](https://scholar.google.com/citations?user=rTeuJmkAA
 
 
 
-
-### Links
-
-
-```markdown
-Syntax highlighted code block
-
-m,
-```
-
  
