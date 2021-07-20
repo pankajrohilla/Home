@@ -1217,6 +1217,7 @@ input[type="text"] {
 ol {
   list-style: none;
   counter-reset: steps;
+  width = 0.6em;
 }
 ol li {
   counter-increment: steps;
