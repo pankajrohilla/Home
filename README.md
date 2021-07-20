@@ -1,7 +1,8 @@
 PhD Candidate, 
-Chemical Engineering
+Chemical Engineering,
+Texas Tech University
 
-Research | Photography | Running
+| Research | Photography | Running |
 
 Under [Construction!!!](https://github.com/pankajrohilla/rohillapankaj/edit/master/README.md)
 
