@@ -442,14 +442,14 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner h1 {
   margin-bottom: 10px;
-  font-size: 40px;
+  font-size: 20px;
   line-height: 1.3;
   font-weight: 300;
-  color: #fff;
+  color: #000000;
   display: inline;
   display: inline;
-  background-color: #F95959;
-  box-shadow: 0.2em 0 0 #F95959, -0.2em 0 0 #F95959;
+  background-color: #c9c9c9;
+  box-shadow: 0.2em 0 0 #c9c9c9, -0.2em 0 0 #c9c9c9;
   padding: 0.1em 0em;
   box-decoration-break: clone;
 }
