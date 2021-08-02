@@ -374,9 +374,9 @@ h1, h2, h3, h4, h5, h6, figure {
   min-height: 500px;
   position: relative;
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 300px) {
   #fh5co-hero .flexslider .slides li {
-    min-height: 350px;
+    min-height: 250px;
   }
 }
 #fh5co-hero .flexslider .slides .overlay {
